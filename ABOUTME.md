@@ -1,8 +1,22 @@
-# 👋 Hi, I’m Dennis (@callmedenz)
+# 👋 Hey there, I'm Dennis
 
-- 👀 I’m interested in **Cloud Computing, Data Science, and Software Engineering**
-- 🌱 I’m currently learning **AWS, Basic(Python, Java, C)**
-- 💞️ I’m looking to collaborate on **open-source cloud projects, research papers, and innovative software solutions**
-- 📫 How to reach me: **dennispradhan210406@gmail.com**
-- 😄 Pronouns: **He/Him**
-- 🎒 University: **Parul University (2nd Year)**
+I'm a Computer Science student and just started my journey into **Cloud Computing** ☁️  
+Trying to rebuild myself, one step at a time 🙌
+
+## 🔧 Learning Now:
+- AWS Basics
+- Linux & Shell
+- Cloud Projects (coming soon!)
+
+### 🌱 My Goal:
+To become a Cloud Engineer and get into a top MS program!
+
+#### 🚀 Projects Coming Soon:
+- [ ] Simple Website hosted on AWS
+- [ ] Serverless To-do App
+- [ ] Docker & CI/CD pipeline
+
+##### 📚 What I'm Following:
+- [AWS Free Learning](https://www.simplilearn.com/free-aws-cloud-practitioner-essentials-course-skillup)
+
+Let’s grow together 🌱
