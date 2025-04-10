@@ -7,6 +7,8 @@ Trying to rebuild myself, one step at a time 🙌
 - AWS Basics
 - Linux & Shell
 - Cloud Projects (coming soon!)
+- Python
+- Node JS (For Discord Bots!)
 
 ### 🌱 My Goal:
 To become a Cloud Engineer and get into a top MS program!
