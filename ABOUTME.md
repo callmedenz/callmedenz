@@ -1,5 +1,6 @@
 # 💫 About Me:
-👋 Hey there, I'm Dennis<br>I'm a Computer Science student and just started my journey into Cloud Computing ☁️<br>Trying to rebuild myself, one step at a time 🙌<br><br>🔧 Learning Now:<br>AWS Basics<br>Linux & Shell<br>Cloud Projects (coming soon!)<br>Python<br>Node JS (For Discord Bots!)<br><br>🌱 My Goal:<br>To become a Cloud Engineer and get into a top MS program!<br><br>🚀 Projects Coming Soon:<br> Simple Website hosted on AWS<br> Serverless To-do App<br> Docker & CI/CD pipeline<br><br>📚 What I'm Following:<br>AWS Free Learning
+👋 Hey there, 
+I'm Dennis<br>I'm a Computer Science student and just started my journey into Cloud Computing ☁️<br>Trying to rebuild myself, one step at a time 🙌<br><br>🔧 Learning Now:<br>AWS Basics<br>Linux & Shell<br>Cloud Projects (coming soon!)<br>Python<br>Node JS (For Discord Bots!)<br><br>🌱 My Goal:<br>To become a Cloud Engineer and get into a top MS program!<br><br>🚀 Projects Coming Soon:<br> Simple Website hosted on AWS<br> Serverless To-do App<br> Docker & CI/CD pipeline<br><br>📚 What I'm Following:<br>AWS Free Learning
 
 
 ## 🌐 Socials:
