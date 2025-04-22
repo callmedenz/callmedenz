@@ -1,5 +1,5 @@
 # 💫 About Me:
-#👋 Hey there, 
+# 👋 Hey there, 
 I'm Dennis<br>I'm a Computer Science student and just started my journey into Cloud Computing ☁️<br>Trying to rebuild myself, one step at a time 🙌<br><br>
 # 🔧 Learning Now:
 <br>AWS Basics<br>Linux & Shell<br>Cloud Projects (coming soon!)<br>Python<br>Node JS (For Discord Bots!)<br><br>
