@@ -3,7 +3,7 @@
 # 🔧 Learning Now:
 <br>AWS Basics<br>Linux & Shell<br>Cloud Projects (coming soon!)<br>Python<br>Node JS (For Discord Bots!)<br><br>
 # 🌱 My Goal:
-<br>To become a Cloud Engineer and get into a top MS program!<br><br>
+<br>To become a Cloud Engineer or SDE!<br><br>
 # 🚀 Projects Coming Soon:
 <br> Simple Website hosted on AWS<br> Serverless To-do App<br> Docker & CI/CD pipeline<br><br>
 # 📚 What I'm Following:
